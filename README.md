@@ -8,4 +8,4 @@ There are several different types of traffic signs like speed limits, no entry, 
 
 The dataset contains more than 50,000 images of different traffic signs. It is further classified into 43 different classes. The dataset is quite varying, some of the classes have many images while some classes have few images. The size of the dataset is around 300 MB. 
 
-[Link to Google](https://www.google.com)
+[Dataset of Project](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
