@@ -13,14 +13,14 @@ We use Kaggle Dataset of train our Machine learning Model .
 
 # Architecture our Model 
 
-2 Conv2D layer (filter=32, kernel_size=(5,5), activation=”relu”)<br/>
-MaxPool2D layer ( pool_size=(2,2))<br/>
-Dropout layer (rate=0.25)<br/>
-2 Conv2D layer (filter=64, kernel_size=(3,3), activation=”relu”)<br/>
-MaxPool2D layer ( pool_size=(2,2))<br/>
-Dropout layer (rate=0.25)<br/>
-Flatten layer to squeeze the layers into 1 dimension <br/>
-Dense Fully connected layer (256 nodes, activation=”relu”) <br/>
-Dropout layer (rate=0.5)<br/>
-Dense layer (43 nodes, activation=”softmax”) <br/>
+1. 2 Conv2D layer (filter=32, kernel_size=(5,5), activation=”relu”)<br/>
+2. MaxPool2D layer ( pool_size=(2,2))<br/>
+3. Dropout layer (rate=0.25)<br/>
+4. 2 Conv2D layer (filter=64, kernel_size=(3,3), activation=”relu”)<br/>
+5. MaxPool2D layer ( pool_size=(2,2))<br/>
+6. Dropout layer (rate=0.25)<br/>
+7. Flatten layer to squeeze the layers into 1 dimension <br/>
+8. Dense Fully connected layer (256 nodes, activation=”relu”) <br/>
+9. Dropout layer (rate=0.5)<br/>
+10. Dense layer (43 nodes, activation=”softmax”) <br/>
 
