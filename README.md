@@ -24,3 +24,6 @@ We use Kaggle Dataset of train our Machine learning Model .
 9. Dropout layer (rate=0.5)<br/>
 10. Dense layer (43 nodes, activation=”softmax”) <br/>
 
+# Overview of Project in Image 
+
+[Checkout overview](https://github.com/Keyur0016/Trffic-rule-prediction-ML-Project/tree/main/Project/Overview)
